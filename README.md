@@ -1,5 +1,7 @@
 # Taller-3
 
+Profe, esto fue lo que alcance a realizar para el taller
+
 Tiene el taller
 1) Registro
 2) Iniciar sesión
